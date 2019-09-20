@@ -1,0 +1,25 @@
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.name_container {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    background-color: #dffc00;
+}
+
+.content_container {
+    font-size: 26px;
+    font-family: Helvetica, sans-serif;
+    color: #939344;
+}
+
+.some_image {
+    max-width: 75%;
+}
